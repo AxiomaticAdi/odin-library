@@ -1,0 +1,39 @@
+* {
+	font-family: 'Franklin Gothic Medium', Arial, sans-serif;
+}
+
+#page-container {
+	max-width: 800px;
+}
+
+footer {
+	position: absolute;
+	bottom: 15px;
+	width: 100%;
+}
+
+h1 {
+	text-align: center;
+}
+
+table {
+	border-collapse: separate;
+	border-spacing: 50px 5px;
+}
+
+#book-form {
+	display: flex;
+	justify-content: space-between;
+	max-width: 800px;
+}
+
+#break-line {
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
+
+#library-box {
+	display: flex;
+	justify-content: space-evenly;
+	max-width: 800px;
+}
